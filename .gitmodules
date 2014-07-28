@@ -1,3 +1,9 @@
 [submodule ".themes/simple"]
 	path = .themes/simple
 	url = https://github.com/chuguixin/simple.git
+[submodule ".themes/simplified"]
+	path = .themes/simplified
+	url = https://github.com/yang-wei/simplified.git
+[submodule ".themes/Bold-and-Blue"]
+	path = .themes/Bold-and-Blue
+	url = https://github.com/johnkeith/boldandblue.git
