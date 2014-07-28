@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dingzhihu.github.io/atom.xml" rel="self"/>
-  <link href="http://dingzhihu.github.io/"/>
-  <updated>2014-07-28T14:12:11+08:00</updated>
-  <id>http://dingzhihu.github.io/</id>
+  <title><![CDATA[Zhihu's Blog]]></title>
+  <link href="http://www.dingzhihu.com//atom.xml" rel="self"/>
+  <link href="http://www.dingzhihu.com//"/>
+  <updated>2014-07-28T14:53:56+08:00</updated>
+  <id>http://www.dingzhihu.com//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[dingzhihu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dingzhihu.github.io/blog/2014/07/24/hello-world/"/>
+    <link href="http://www.dingzhihu.com//blog/2014/07/24/hello-world/"/>
     <updated>2014-07-24T22:17:00+08:00</updated>
-    <id>http://dingzhihu.github.io/blog/2014/07/24/hello-world</id>
+    <id>http://www.dingzhihu.com//blog/2014/07/24/hello-world</id>
     <content type="html"><![CDATA[<p>Hello World! Hello Octopress!</p>
 ]]></content>
   </entry>
